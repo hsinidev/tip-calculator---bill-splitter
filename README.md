@@ -1,5 +1,5 @@
 
-# Doodax Tip Calculator & Bill Splitter
+# Tip Calculator & Bill Splitter
 
 [![React Version](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-^5.0.0-blue.svg)](https://www.typescriptlang.org/)
@@ -11,7 +11,7 @@
 ## 🚀 Live Demo
 
 Experience the application live at:
-**[https://doodax.com](https://doodax.com)** _(Opens in a new tab)_
+**[https://doodax.com](https://doodax.com/tools/tip-calculator-bill-splitter/index.html)** _(Opens in a new tab)_
 
 ![Doodax Screenshot](https://doodax.com/screenshot.png)
 
